@@ -1,4 +1,4 @@
-<img width="1914" height="983" alt="image" src="https://github.com/user-attachments/assets/339460a4-2b1b-4dd7-95d3-34f9d7ef8ca9" /># Mini-Project: Sistem Manajemen Inventaris
+
 
 **Ucapan Terima Kasih**  
 Terima kasih atas kesempatan yang diberikan untuk mengikuti proses seleksi di **Wafa Indonesia**. Berikut saya lampirkan mini-project sebagai bukti kemampuan teknis saya.
